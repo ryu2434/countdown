@@ -1,5 +1,4 @@
 // Function to complete.
-
 function CountDownTimer(dateTime, divId) {
     var end     = new Date(dateTime);
     var _second = 1000;
