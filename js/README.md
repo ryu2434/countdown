@@ -13,7 +13,7 @@ countdown(2015, 2, 2);
 
 ## Levels
 
-1. Use global variable to keep track of time
+1. Do not use global variable to keep track of time
 1. Keep track of time *without* defining any global variables
 1. BONUS: don't define any new variables
 
